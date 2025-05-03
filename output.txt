@@ -1,0 +1,27 @@
+==== 2025-05-03 18:02:23 ====
+[Recurring (every 5 min)] Command: date /t && echo "Amex is headquartered in New York"
+
+==== 2025-05-03 18:02:23 ====
+[Recurring (every 1 min)] Command: date /t && echo "Amex' motto is 'Don't live life without it!'Run every min"
+
+==== 2025-05-03 18:02:23 ====
+[Recurring (every 2 min)] Command: date /t && echo "Amex was founded in 1850."
+
+==== 2025-05-03 18:03:23 ====
+[Recurring (every 1 min)] Command: date /t && echo "Amex' motto is 'Don't live life without it!'Run every min"
+
+==== 2025-05-03 18:04:23 ====
+[Recurring (every 2 min)] Command: date /t && echo "Amex was founded in 1850."
+
+==== 2025-05-03 18:04:23 ====
+[Recurring (every 1 min)] Command: date /t && echo "Amex' motto is 'Don't live life without it!'Run every min"
+
+==== 2025-05-03 18:14:44 ====
+[Recurring (every 2 min)] Command: date /t && echo "Amex was founded in 1850."
+
+==== 2025-05-03 18:14:44 ====
+[Recurring (every 5 min)] Command: date /t && echo "Amex is headquartered in New York"
+
+==== 2025-05-03 18:14:44 ====
+[Recurring (every 1 min)] Command: date /t && echo "Amex' motto is 'Don't live life without it!'Run every min"
+
